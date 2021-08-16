@@ -11,10 +11,10 @@ lonelygunter/lonelygunter is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 ```
-        Hi, I’m @lonelygunter
-   _
- ('v')
-//-=-\\
-(\_=_/)
- ^^ ^^
+                                                Hi, I’m @lonelygunter
+                                           _
+                                         ('v')
+                                        //-=-\\
+                                        (\_=_/)
+                                         ^^ ^^
 ```
