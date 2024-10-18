@@ -5,9 +5,9 @@
                                         //-=-\\
                                         (\_=_/)
                                          ^^ ^^
+      🧃 Bachelor's degree in Information Engineering
+      🎈 Master's degree student in Computer Engineering
+      🌂 Gen Z
+      🎴 Moderate collector
+      🥣 Illustration lover
 ```
-🧃 Bachelor's degree in Information Engineering<br>
-🎈 Master's degree student in Computer Engineering<br>
-🌂 Gen Z<br>
-🎴 Moderate collector<br>
-🥣 Illustration lover<br>
