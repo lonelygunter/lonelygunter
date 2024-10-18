@@ -1,20 +1,13 @@
-<!---
-DEFAULT README.md
-- 👋 Hi, I’m @lonelygunter
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-
-lonelygunter/lonelygunter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 ```
-                                                Hi, I’m @lonelygunter
-                                           _
+                                                 'sup, @lonelygunter here
+                                           _    /
                                          ('v')
                                         //-=-\\
                                         (\_=_/)
                                          ^^ ^^
 ```
+🧃 Bachelor's degree in Information Engineering<br>
+🎈 Master's degree student in Computer Engineering<br>
+🌂 Gen Z<br>
+🎴 Moderate collector<br>
+🥣 Illustration lover<br>
